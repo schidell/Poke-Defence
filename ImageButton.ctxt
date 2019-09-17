@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=img
+comment0.target=ImageButton(greenfoot.GreenfootImage)
+comment0.text=\n\ Creates\ an\ image\ button.\n\ \n\ @param\ img\ Image\ used\ to\ create\ the\ button\n
+numComments=1
