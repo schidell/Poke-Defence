@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=whichPokemon
+comment0.target=Shooter(char)
+comment0.text=\n\ Constructor\ for\ the\ Shooters.\ Sets\ all\ the\ images\ depending\ on\ the\ type\ of\ pokemon.\n\ \n\ @param\ whichPokemon\ Character\ used\ to\ differentiate\ between\ pokemon.\ b\:bulbasaur\ i\:ivysaur\ v\:venusaur\ s\:squirtle\ w\:wartortle\ B\:blastoise\ r\:charmander\ n\:charmelion\ d\:charizard\n
+comment1.params=
+comment1.target=void\ healthActorAct()
+comment1.text=\n\ Decreases\ the\ shoot\ timer\ and\ shoots\ when\ the\ timer\ reaches\ 0,\ then\ resets.\n
+comment2.params=
+comment2.target=void\ shoot()
+comment2.text=\n\ Shoots\ at\ the\ closest\ enemy\ in\ the\ direction\ of\ the\ enemy.\n
+comment3.params=
+comment3.target=char\ getWhichPokemon()
+comment3.text=\n\ Getter\ method\ that\ returns\ the\ pokemon.\n\ \n\ @return\ char\ Character\ of\ the\ pokemon\ shooter.\ b\:bulbasaur\ i\:ivysaur\ v\:venusaur\ s\:squirtle\ w\:wartortle\ B\:blastoise\ r\:charmander\ n\:charmelion\ d\:charizard\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Run\ every\ time\ act\ or\ run\ is\ pressed.\ Will\ rotate\ shooter\ to\ the\ nearest\ enemy\ so\ they\ shoot,\ and\ adjusts\ the\ image\ accordingly.\n
+comment5.params=range
+comment5.target=Enemy\ getClosestEnemy(int)
+comment5.text=\n\ Finds\ the\ closest\ enemy\ in\ the\ world.\n\ \n\ @param\ range\ Range\ to\ search\ for\ the\ closest\ enemy\n\ @return\ Enemy\ The\ closest\ enemy\ to\ the\ shooter\n
+comment6.params=enemy
+comment6.target=int\ aimAtEnemy(Enemy)
+comment6.text=\n\ Calculates\ the\ direction\ to\ shoot\ at\ to\ hit\ the\ closest\ enemy.\n\ \n\ @param\ enemy\ Enemy\ to\ shoot\ at\n\ @return\ int\ Direction\ from\ 0\ to\ 359\ to\ shoot\ at\ to\ hit\ the\ enemy\n
+numComments=7

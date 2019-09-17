@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LifeBar()
+comment0.text=\n\ Allows\ the\ program\ to\ run\ the\ default\ settings\ for\ the\ health\ bar.\n\ <p>\n\ Default\ Settings\:\n\ <p>\n\ Maximum\ Health\ \=\ 50\n\ <p>\n\ Current\ Health\ \=\ 50\n\ <p>\n\ Rectangle\ Colour\ \=\ Black\n\ <p>\n\ Health\ Colour\ \=\ Green\n
+comment1.params=width\ currHealth\ maxHealth
+comment1.target=LifeBar(int,\ int,\ int)
+comment1.text=\n\ Allows\ the\ user\ to\ change\ the\ default\ settings\ to\ desired\ values.\n\ If\ the\ Current\ Health\ is\ lower\ than\ or\ equal\ to\ the\ Maximum\ Health\ (determined\ by\ the\ User)\n\ then\ the\ health\ bar\ will\ update.\ If\ condition\ does\ not\ match,\ no\ health\ bar\ will\ appear\ (Greenfoot\ icon).\n\ \n\ @param\ width\ \ \ \ \ \ \ \ \ Width\ of\ the\ health\ bar\n\ @param\ currHealth\ \ \ \ Current\ health\ of\ the\ object\ (determined\ by\ the\ user)\n\ @param\ maxHealth\ \ \ \ \ Maximum\ health\ value\ of\ the\ object\ (determined\ by\ the\ user)\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\n\ Lists\ all\ the\ procedures\ for\ creating\ a\ default\ health\ bar\ and\ is\ called\ upon\ from\ the\n\ default\ HealthBar()\ method\ to\ create\ the\ health\ bar.\n\ <p>\n\ Default\ Settings\:\n\ <p>\n\ Maximum\ Health\ \=\ 50\n\ <p>\n\ Current\ Health\ \=\ 50\n\ <p>\n\ Rectangle\ Colour\ \=\ Black\n\ <p>\n\ Health\ Colour\ \=\ Green\n
+comment3.params=width\ currHealth\ maxHealth
+comment3.target=void\ update(int,\ int,\ int)
+comment3.text=\n\ Takes\ in\ users'\ preferred\ values\ for\ the\ width\ of\ the\ health\ bar,\ current\ health\ of\ the\ object\n\ and\ the\ maximum\ health\ of\ the\ object.\ After,\ the\ method\ creates\ a\ new\ health\ bar\ tailored\ to\ the\n\ users'\ chosen\ values.\n\ \n\ @param\ width\ \ \ \ \ \ \ \ \ Width\ of\ the\ health\ bar\ (determined\ by\ the\ user)\n\ @param\ currHealth\ \ \ \ Current\ Health\ of\ the\ object\ (determined\ by\ the\ user)\n\ @param\ maxHealth\ \ \ \ \ Maximum\ Health\ of\ the\ object\ (determined\ by\ the\ user)\n
+numComments=4

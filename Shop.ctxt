@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=scene
+comment0.target=Shop(char)
+comment0.text=\n\ Creates\ a\ shop.\ Appears\ as\ a\ horizontal\ bar\ and\ shows\ prices\ of\ shooters,\ and\ allows\ user\ to\ choose\ which\ shooter\ they'd\ like\ to\ add\ to\ the\ world.\n\ \n\ @param\ scene\ Scene\ the\ shop\ will\ appear\ in\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ During\ the\ first\ act,\ will\ add\ the\ buttons\ to\ the\ world\ to\ allow\ the\ user\ to\ choose\ a\ shooter.\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2

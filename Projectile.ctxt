@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ The\ projectile\ moves.\ If\ it\ hits\ an\ enemy,\ the\ enemy\ will\ take\ damage.\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=direction
+comment1.target=Projectile(int)
+comment1.text=\n\ Creates\ a\ projectile\ with\ a\ specified\ direction.\n\ \n\ @param\ direction\ Rotation\ of\ the\ projectile;\ specifies\ which\ way\ projectile\ will\ move\n
+comment2.params=
+comment2.target=boolean\ atWorldEdge()
+comment2.text=\n\ Determines\ if\ the\ Weapon\ is\ at\ the\ edge\ of\ the\ world.\ If\ so,\n\ remove\ the\ weapon.\n
+numComments=3

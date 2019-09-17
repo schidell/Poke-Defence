@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=text\ size\ fontColor\ backColor
+comment0.target=Text(java.lang.String,\ int,\ java.awt.Color,\ java.awt.Color)
+comment0.text=\n\ Creates\ text\ with\ a\ specified\ color\ and\ specified\ background\ with\ Arial\ Bold\ font.\n\ \n\ @param\ \ text\ Text\ to\ display\n\ @param\ \ size\ Size\ of\ text\n\ @param\ fontColor\ Color\ of\ the\ font\n\ @param\ backColor\ Color\ of\ the\ background\ of\ the\ text\ \n
+comment1.params=text\ size
+comment1.target=Text(java.lang.String,\ int)
+comment1.text=\n\ Creates\ text\ with\ white\ letters\ and\ transparent\ background\ with\ Arial\ Bold\ font.\n\ \n\ @param\ text\ \ text\ to\ display\n\ @param\ size\ \ size\ of\ text\n
+comment2.params=wave\ size\ fontColor\ backColor
+comment2.target=Text(int,\ int,\ java.awt.Color,\ java.awt.Color)
+comment2.text=\n\ Creates\ text\ to\ show\ the\ wave\ number.\ \n\ \n\ @param\ wave\ Wave\ number\n\ @param\ size\ Size\ of\ the\ font,\ must\ be\ greater\ than\ 0\n\ @param\ fontColor\ Color\ of\ the\ font\n\ @param\ backColor\ Color\ of\ the\ background\ of\ the\ text\n
+comment3.params=wave
+comment3.target=void\ update(int)
+comment3.text=\n\ Updates\ the\ wave\ number\ in\ the\ text\n\ @param\ wave\ Wave\ number\n
+numComments=4

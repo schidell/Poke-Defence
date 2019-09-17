@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=x\ y\ state\ scene
+comment0.target=Location(int,\ int,\ char,\ char)
+comment0.text=\n\ Creates\ a\ location\ based\ on\ its\ scene\ and\ state.\n\ \n\ @param\ x\ \ \ \ \ Length\ of\ tile\n\ @param\ y\ \ \ \ \ Height\ of\ tile\n\ @param\ state\ State\ of\ tile\ (1\:\ obstacle,\ p\:\ path,\ a\:\ empty1,\ b\:\ empty2,\ s\:\ start,\ f\:\ finish)\n\ @param\ scene\ Scene\ of\ tile(u\:\ underwater,\ f\:\ fire,\ g\:\ grass)\n
+comment1.params=state
+comment1.target=void\ setState(char)
+comment1.text=\n\ Set\ state\ of\ location.\n\ \n\ @param\ state\ New\ state\ to\ set\ location\ to\n
+comment2.params=
+comment2.target=char\ getState()
+comment2.text=\n\ Get\ state\ of\ location.\n\ \n\ @return\ char\ State\ of\ location\ (1\:\ obstacle,\ p\:\ path,\ a\:\ empty1,\ b\:\ empty2,\ s\:\ start,\ f\:\ finish)\n
+comment3.params=
+comment3.target=void\ setPicture()
+numComments=4

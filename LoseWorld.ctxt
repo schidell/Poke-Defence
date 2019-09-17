@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=game
+comment0.target=LoseWorld(GameWorld)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ FinishWorld.\ It\ is\ created\ when\ a\ user\ loses\ their\ lives\n\ and\ cannot\ complete\ all\ the\ waves.\ It\ creates\ an\ 800x600\ size\ world,\ \n\ and\ adds\ a\ return\ to\ menu\ button\ that\ will\ take\ the\ user\ back\ to\ the\ start\ world.\n\ \n\ @param\ game\ \ The\ game\ that\ has\ the\ statistics\ to\ display\ on\ the\ screen\n
+numComments=1
