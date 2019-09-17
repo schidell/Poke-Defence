@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Counter()
+comment0.text=\n\ Create\ a\ new\ counter,\ initialised\ to\ 0.\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Animate\ the\ display\ to\ count\ up\ (or\ down)\ to\ the\ current\ target\ value.\n
+comment2.params=score
+comment2.target=void\ add(int)
+comment2.text=\n\ Add\ a\ new\ score\ to\ the\ current\ counter\ value.\n\ \n\ @param\ score\ Score\ to\ add\ to\ the\ current\ value\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\n\ Return\ the\ current\ counter\ value.\n\ \n\ @return\ int\ Value\ of\ the\ current\ counter\n
+comment4.params=newValue
+comment4.target=void\ setValue(int)
+comment4.text=\n\ Set\ a\ new\ counter\ value.\n\ \n\ @param\ newValue\ New\ value\ of\ the\ counter\n
+comment5.params=newValue
+comment5.target=void\ setValueSmooth(int)
+comment5.text=\n\ Set\ a\ new\ counter\ value\ without\ changing\ the\ target\ value.\n\ \n\ @param\ newValue\ New\ value\ of\ the\ counter\n
+comment6.params=
+comment6.target=void\ updateImage()
+comment6.text=\n\ Update\ the\ image\ on\ screen\ to\ show\ the\ current\ value.\n
+numComments=7

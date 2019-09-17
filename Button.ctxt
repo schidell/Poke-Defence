@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=whichPokemon
+comment0.target=Button(char)
+comment0.text=\n\ Creates\ a\ button\ using\ the\ pokemon\n\ \n\ @param\ whichPokemon\ Character\ that\ correlates\ to\ a\ pokemon\ to\ be\ used\ to\ make\ the\ button.\ b\:bulbasaur\ i\:ivysaur\ v\:venusaur\ s\:squirtle\ w\:wartortle\ B\:blastoise\ r\:charmander\ n\:charmelion\ d\:charizard\ \n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ buttonPressed()
+comment2.text=\n\ Tells\ the\ world\ this\ button\ is\ selected\ if\ the\ mouse\ clicks\ on\ this\ button\n
+comment3.params=
+comment3.target=void\ deselected()
+comment3.text=\n\ Sets\ the\ image\ to\ look\ deselected.\n
+comment4.params=
+comment4.target=int\ getPrice()
+comment4.text=\n\ Getter\ method\ to\ get\ the\ price\ of\ the\ shooter\n\ \n\ @return\ int\ Price\ of\ pokemon\ shooter\n
+comment5.params=
+comment5.target=char\ getWhichPokemon()
+comment5.text=\n\ Getter\ method\ to\ get\ the\ type\ of\ pokemon\ for\ the\ button\n\ \n\ @return\ char\ Character\ that\ correspnds\ to\ the\ pokemon.\ b\:bulbasaur\ i\:ivysaur\ v\:venusaur\ s\:squirtle\ w\:wartortle\ B\:blastoise\ r\:charmander\ n\:charmelion\ d\:charizard\n
+numComments=6

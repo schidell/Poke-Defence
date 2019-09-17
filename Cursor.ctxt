@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cursor()
+comment0.text=\n\ Creates\ a\ cursor\ that\ will\ appear\ to\ place\ shooters\ in\ world.\n
+comment1.params=
+comment1.target=void\ update()
+comment1.text=\n\ Updates\ the\ cursor.\ The\ size\ of\ the\ grid\ changes\ depending\ on\ the\ level,\ so\ the\ update\ method\n\ can\ adjust\ the\ grid's\ properties\ accordingly.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ The\ cursor\ will\ snap\ to\ the\ grid\ in\ the\ world,\ as\ opposed\ to\ moving\ freely.\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=boolean\ checkIfSpaceIsAvailable()
+comment3.text=\n\ See\ if\ space\ is\ available\ at\ certain\ location\ in\ grid.\n\ \n\ @return\ boolean\ \ True\ if\ space\ is\ available,\ otherwise\ false\n
+comment4.params=image
+comment4.target=void\ combineImage(greenfoot.GreenfootImage)
+comment4.text=\n\ Adds\ image\ of\ which\ shooter\ is\ being\ added\ to\ the\ image\ of\ cursor\ so\ user\ knows\ which\ shooter\ has\ been\ selected.\n\ \n\ @param\ image\ Image\ to\ combine\ cursor\ image\ with\n
+comment5.params=
+comment5.target=void\ resetImage()
+comment5.text=\n\ Resets\ image\ so\ there\ is\ no\ shooter\ within\ the\ cursor.\n
+numComments=6
